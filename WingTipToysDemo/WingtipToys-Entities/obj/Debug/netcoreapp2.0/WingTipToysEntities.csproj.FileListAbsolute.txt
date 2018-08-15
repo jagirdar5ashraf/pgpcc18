@@ -1,0 +1,17 @@
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingtipToys-Entities\bin\Debug\netcoreapp2.0\WingTipToysEntities.deps.json
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingtipToys-Entities\bin\Debug\netcoreapp2.0\WingTipToysEntities.dll
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingtipToys-Entities\bin\Debug\netcoreapp2.0\WingTipToysEntities.pdb
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingtipToys-Entities\obj\Debug\netcoreapp2.0\WingTipToysEntities.csproj.CoreCompileInputs.cache
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingtipToys-Entities\obj\Debug\netcoreapp2.0\WingTipToysEntities.AssemblyInfoInputs.cache
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingtipToys-Entities\obj\Debug\netcoreapp2.0\WingTipToysEntities.AssemblyInfo.cs
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingtipToys-Entities\obj\Debug\netcoreapp2.0\WingTipToysEntities.dll
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingtipToys-Entities\obj\Debug\netcoreapp2.0\WingTipToysEntities.pdb
+D:\SS3\CloudComputing\Azure\MyFirstProject\WingTipToysDemo\WingtipToys-Entities\bin\Debug\netcoreapp2.0\WingTipToysEntities.deps.json
+D:\SS3\CloudComputing\Azure\MyFirstProject\WingTipToysDemo\WingtipToys-Entities\bin\Debug\netcoreapp2.0\WingTipToysEntities.dll
+D:\SS3\CloudComputing\Azure\MyFirstProject\WingTipToysDemo\WingtipToys-Entities\bin\Debug\netcoreapp2.0\WingTipToysEntities.pdb
+D:\SS3\CloudComputing\Azure\MyFirstProject\WingTipToysDemo\WingtipToys-Entities\obj\Debug\netcoreapp2.0\WingTipToysEntities.csproj.CoreCompileInputs.cache
+D:\SS3\CloudComputing\Azure\MyFirstProject\WingTipToysDemo\WingtipToys-Entities\obj\Debug\netcoreapp2.0\WingTipToysEntities.AssemblyInfoInputs.cache
+D:\SS3\CloudComputing\Azure\MyFirstProject\WingTipToysDemo\WingtipToys-Entities\obj\Debug\netcoreapp2.0\WingTipToysEntities.AssemblyInfo.cs
+D:\SS3\CloudComputing\Azure\MyFirstProject\WingTipToysDemo\WingtipToys-Entities\obj\Debug\netcoreapp2.0\WingTipToysEntities.dll
+D:\SS3\CloudComputing\Azure\MyFirstProject\WingTipToysDemo\WingtipToys-Entities\obj\Debug\netcoreapp2.0\WingTipToysEntities.pdb
+D:\SS3\CloudComputing\Azure\MyFirstProject\WingTipToysDemo\WingtipToys-Entities\obj\Debug\netcoreapp2.0\WingTipToysEntities.csprojResolveAssemblyReference.cache

@@ -1,0 +1,81 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "WingtipToys-Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/WingtipToys-Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WingtipToys-Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WingtipToys-Entities/1.0.0": {
+      "type": "project",
+      "path": "../WingtipToys-Entities/WingtipToys-Entities.csproj",
+      "msbuildProject": "../WingtipToys-Entities/WingtipToys-Entities.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.1": [
+      "WingtipToys-Entities >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ashrafali J\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Ashraf\\VisualStudioProjects\\MyFirstProject\\WingTipToysDemo\\WingTipTyAPI\\WingTipToysAPI.csproj",
+      "projectName": "WingTipToysAPI",
+      "projectPath": "C:\\Ashraf\\VisualStudioProjects\\MyFirstProject\\WingTipToysDemo\\WingTipTyAPI\\WingTipToysAPI.csproj",
+      "packagesPath": "C:\\Users\\Ashrafali J\\.nuget\\packages\\",
+      "outputPath": "C:\\Ashraf\\VisualStudioProjects\\MyFirstProject\\WingTipToysDemo\\WingTipTyAPI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Ashrafali J\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "projectReferences": {
+            "C:\\Ashraf\\VisualStudioProjects\\MyFirstProject\\WingTipToysDemo\\WingtipToys-Entities\\WingtipToys-Entities.csproj": {
+              "projectPath": "C:\\Ashraf\\VisualStudioProjects\\MyFirstProject\\WingTipToysDemo\\WingtipToys-Entities\\WingtipToys-Entities.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.1": {
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

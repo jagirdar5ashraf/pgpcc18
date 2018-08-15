@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Controllers\HomeController - Copy.cs.orig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WingtipToys-Entities\WingtipToys-Entities.csproj" />
+    <ProjectReference Include="..\WingTipTyAPI\WingTipToysAPI.csproj" />
+  </ItemGroup>
+
+</Project>

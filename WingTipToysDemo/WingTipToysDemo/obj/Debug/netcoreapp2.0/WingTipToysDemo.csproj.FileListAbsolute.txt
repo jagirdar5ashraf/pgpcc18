@@ -1,0 +1,16 @@
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingTipToysDemo\bin\Debug\netcoreapp2.0\WingTipToysDemo.deps.json
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingTipToysDemo\bin\Debug\netcoreapp2.0\WingTipToysDemo.runtimeconfig.json
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingTipToysDemo\bin\Debug\netcoreapp2.0\WingTipToysDemo.runtimeconfig.dev.json
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingTipToysDemo\bin\Debug\netcoreapp2.0\WingTipToysDemo.dll
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingTipToysDemo\bin\Debug\netcoreapp2.0\WingTipToysDemo.pdb
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingTipToysDemo\bin\Debug\netcoreapp2.0\WingTipToysEntities.dll
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingTipToysDemo\bin\Debug\netcoreapp2.0\WingTipTyAPI.dll
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingTipToysDemo\bin\Debug\netcoreapp2.0\WingTipToysEntities.pdb
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingTipToysDemo\bin\Debug\netcoreapp2.0\WingTipTyAPI.pdb
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingTipToysDemo\obj\Debug\netcoreapp2.0\WingTipToysDemo.csprojAssemblyReference.cache
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingTipToysDemo\obj\Debug\netcoreapp2.0\WingTipToysDemo.csproj.CoreCompileInputs.cache
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingTipToysDemo\obj\Debug\netcoreapp2.0\WingTipToysDemo.AssemblyInfoInputs.cache
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingTipToysDemo\obj\Debug\netcoreapp2.0\WingTipToysDemo.AssemblyInfo.cs
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingTipToysDemo\obj\Debug\netcoreapp2.0\WingTipToysDemo.csproj.CopyComplete
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingTipToysDemo\obj\Debug\netcoreapp2.0\WingTipToysDemo.dll
+C:\Ashraf\VisualStudioProjects\MyFirstProject\WingTipToysDemo\WingTipToysDemo\obj\Debug\netcoreapp2.0\WingTipToysDemo.pdb
