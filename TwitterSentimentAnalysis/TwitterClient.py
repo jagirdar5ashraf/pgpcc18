@@ -27,8 +27,8 @@ negative_sentiment = 0
 neutral_sentiment = 0
 mixed_sentiment = 0
 
-raw_tweet_stream = "raw_tweet_stream"
-processed_tweet_stream = "processed_tweet_stream"
+raw_tweet_stream = ""
+processed_tweet_stream = ""
 
 g_hashtag=''
 
